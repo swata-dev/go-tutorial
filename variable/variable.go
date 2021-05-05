@@ -29,3 +29,4 @@ func main() {
 	fmt.Println(name, age, isCool, email)
 	fmt.Printf("%T\n", size)
 }
+d
