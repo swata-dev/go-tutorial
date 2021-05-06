@@ -21,12 +21,11 @@ func main() {
 	var size float32 = 2.3
 
 	// Shorthand
-	// name := "Brad"
-	// email := "brad@gmail.com"
+	// name := "swata"
+	// email := "swata@gmail.com"
 
-	name, email := "Brad", "brad@gmail.com"
+	name, email := "Swata", "swata@gmail.com"
 
 	fmt.Println(name, age, isCool, email)
 	fmt.Printf("%T\n", size)
 }
-fake
