@@ -18,6 +18,7 @@ func main() {
 	// var name = "Brad"
 	var age int32 = 23
 	var weight int32 = 55
+	var height int32 = 168
 	const isCool = true
 	var size float32 = 2.3
 
@@ -27,7 +28,7 @@ func main() {
 
 	name, email, sex := "Swata", "swata@gmail.com", "male"
 
-	fmt.Println(name, age, sex, weight, isCool, email)
+	fmt.Println(name, age, sex, weight, height, isCool, email)
 	fmt.Printf("%T\n", size)
 }
 
