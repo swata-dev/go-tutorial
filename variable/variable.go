@@ -31,5 +31,3 @@ func main() {
 	fmt.Println(name, age, sex, weight, height, isCool, email)
 	fmt.Printf("%T\n", size)
 }
-
-// face
