@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println(math.Floor(2.7))
+	fmt.Println(math.Floor(2.4))
 	fmt.Println(math.Ceil(2.7))
 	fmt.Println(math.Sqrt(16))
 }
